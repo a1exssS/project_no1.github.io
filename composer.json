@@ -1,0 +1,13 @@
+{
+	"name": "a1exss/project_no3",
+	"authors": [{
+		"name": "a1exss",
+		"email": "porkkoa@gmail.com"
+	}],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"app\\": "./"
+		}
+	}
+}
